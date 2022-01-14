@@ -48,6 +48,9 @@ console.log(results)
     let item = document.createElement("li");
     item.innerHTML = result.Title;
     document.getElementById("results").appendChild(item);
+
+  
+   
   });
 }
 
